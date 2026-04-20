@@ -1,12 +1,3 @@
-"""
-template.py
-
-Generates a production-grade modular structure
-for a Multimodal RAG system.
-
-Run inside your existing Multimodal-RAG root folder.
-"""
-
 from pathlib import Path
 
 
